@@ -1,0 +1,12 @@
+{
+  "username": "ilkeraltintas137@force.com",
+  "accessToken": "ca5f6484419c7df2e62724dd51b433a995d4c3772aa8c4fbf8a4678e62262a54c3b44b82c06afe2fc44973c7fe29e3c4b0fe55c6ebad9e1f1d37bba13d14b5aba80ecf5b070363d8634fa5d9cd515ee86cde9f93781f17aaac4c88db793bc075bf54d84a92f1f02716a59094222878ecb54e2c164af2:0b6900f98b79cd3b2fbc928df5861137",
+  "instanceUrl": "https://forcecom-a6-dev-ed.my.salesforce.com",
+  "orgId": "00D8d000004I228EAC",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "dcc1218b19fedf5e09f2e929cad5420f9b2f706079fa7991868519525e09049b14eca332321ef58613cbc9b45dd61d15d0f0bafc2e69460b34c340dbfada36df5c128d09b8d7cfb2e13036090d0b572c7d7de752c1fab54f3868378e0f:00ceecf78ab9b71add63bfccd92a94ee",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "28.07.2022 23:32:57"
+}

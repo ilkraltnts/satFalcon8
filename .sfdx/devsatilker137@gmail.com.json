@@ -1,0 +1,12 @@
+{
+  "username": "devsatilker137@gmail.com",
+  "accessToken": "dd6cee62aedeed2535272613de52d46cfca676de2a13bbe394bd4085ee2e1fca16816e2f9c25ec8d2382d205f01d0b8466bcd88dede51d827b2636e64ec291076020fcf211bfc93ea8c2821d2560da92baa163ef2d791746d5d51fda5e72e7a35079f73698875e00ebb2767843fdc37553418df6b851:bd0797394e9ad7a20842ced792568301",
+  "instanceUrl": "https://d8d000005bi7ieag-dev-ed.my.salesforce.com",
+  "orgId": "00D8d000005BI7iEAG",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "58f7922de951b8f051409b1116ce20be33dad94922dc50b76407c3a8ba7da38d4463f93af7cce55ae8f1c20d13b68ebd5f39952b0eba5d2bef43885cc18564255daacfb6811700808347fe7207fe7afc5eb49334f65e17c2e561cd0321:476024959abde04ef76fe71de742a705",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "08.07.2022 08:14:50"
+}

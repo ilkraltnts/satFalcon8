@@ -1,0 +1,12 @@
+{
+  "username": "ilkeraltintas43@gmail.com",
+  "accessToken": "01bb451961f618ff35f72b92aead364a5da8e18a22e258ea29e61dfffdd2fedf2eb021b5bcc3a24efa1ac724439e0f81856fdefad12b99553cd73059f9f3d9e09d7d76cdb16392cb00619fe9f60cbdd1b2be3212f3acee33cee0ffd6387a3dc477026d1de1c678a7ac6eeff96c62a6990f5d5e8ae744:05ffcf7d243f7cd005b70ead8b48a5ac",
+  "instanceUrl": "https://istanbul-dev-ed.my.salesforce.com",
+  "orgId": "00D8d000005BDgcEAG",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "8165d2197023582e613bdea7d8f60414c99d07f07001456c4826a99bf5592951d2b508a12c9f87ad125daa6bcb02ea174560441799ff476401868c04b7837774c5a02e6d51eb4bfbfa82fbb86b0caeb04a0f9b7adb608e32090cf0611e:d1e1955fc5e08860fe89aac295060d1e",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "08.07.2022 03:08:34"
+}
